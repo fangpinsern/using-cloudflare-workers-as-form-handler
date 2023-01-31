@@ -1,4 +1,3 @@
-```javascript
 export default {
   async fetch(request, env) {
     const CONTENT_TYPE = "Content-Type";
@@ -77,4 +76,3 @@ export default {
     }
   },
 };
-```
